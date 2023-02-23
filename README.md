@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando de Operador Ágil Nocturno en un Hipermercado.<br>👯 Estoy buscando colaborar en diferentes empresas que busquen innovar y renovar el pensamiento humano.<br>🌱 Actualmente estoy aprendiendo Python y busco perfeccionarme en JS, PHP y CSS.<br>⚡ Dato curioso: Odio la fruta llamada nispero.
+🔭 Actualmente estoy trabajando de Asistente de Taller Informatico.<br>👯 Estoy buscando colaborar en diferentes empresas que busquen innovar y renovar el pensamiento humano.<br>🌱 Actualmente estoy aprendiendo Python y busco perfeccionarme en JS, PHP y CSS.<br>⚡ Dato curioso: Odio la fruta llamada nispero.
 
 
 ## 🌐 Socials:
